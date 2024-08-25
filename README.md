@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @nisha11rani 
 - 👀 I’m interested in ..software engineering 
-- 🌱 I’m currently learning ... C++, DSA
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
